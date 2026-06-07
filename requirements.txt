@@ -1,0 +1,9 @@
+streamlit
+folium
+streamlit-folium
+pandas
+sgp4
+requests
+reportlab
+numpy
+ 
